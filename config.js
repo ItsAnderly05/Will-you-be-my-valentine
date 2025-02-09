@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl:  // Music streaming URL
+        musicUrl:  "https://open.spotify.com/intl-es/track/2R4AlwtrrkMaRKojcTIzmL?si=d69e13e5e9a74bef" // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
